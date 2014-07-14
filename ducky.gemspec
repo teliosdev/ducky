@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Ducky::VERSION
   spec.authors       = ["medcat"]
   spec.email         = ["redjazz96@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{Lookup documentation.}
+  spec.description   = %q{Lookup documentation for core, stdlib, and gem methods.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
